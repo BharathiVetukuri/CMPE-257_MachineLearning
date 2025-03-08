@@ -1,4 +1,4 @@
-# 📊 Fitbit Activity Clustering: K-Means & Additional Method
+# 📊 Fitbit Activity Clustering: K-Means & Additional Methods
 
 ## 📌 Project Overview
 This project applies **K-Means and an additional clustering method** to analyze **Fitbit activity data**. The goal is to discover **user behavior patterns** and provide insights for **personalized activity recommendations**.
