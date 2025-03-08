@@ -52,6 +52,8 @@ Each model is evaluated **before and after modifying data distribution** using t
 🎯 **Live confusion matrix updates**  
 📊 **Compare model performance interactively**  
 
+<img width="456" alt="image" src="https://github.com/user-attachments/assets/bc4c8c2a-d983-4eb9-9743-b53f5012bbc4" />
+
 ---
 ## 📌 Key Learnings & Insights
 * Upsampling improved MLP performance significantly, making it more effective for imbalanced datasets.
