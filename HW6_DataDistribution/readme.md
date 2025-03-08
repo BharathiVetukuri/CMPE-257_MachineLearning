@@ -3,6 +3,14 @@
 ## 📌 Project Overview
 This project explores how **modifying data distributions** affects the performance of machine learning models. Using **upsampling & downsampling**, we dynamically alter the distribution of a key feature and observe its impact on model metrics like **F1-score and confusion matrix**. The project includes an **interactive dashboard** that allows real-time experimentation with data distributions.
 
+## Artifacts
+
+**Colab Link**: https://colab.research.google.com/drive/1tJKz6nowJH2JcQw4nwLQPBBNaXvQEgO6?usp=sharing
+
+**Project WriteUp**: https://drive.google.com/file/d/1OCV4g1wEz2xpo8J4o-k9PcXDA0hmkxio/view?usp=drive_link
+
+**Google Drive Link**: https://drive.google.com/drive/folders/1rV2kb16ewh_uNR_wgewvsUsA3EZ-I6Bn
+
 ## 🚀 Key Features
 ✅ **Modify data distribution** dynamically using a slider  
 ✅ **Train & evaluate models** (Random Forest, XGBoost, SVM, MLP)  
