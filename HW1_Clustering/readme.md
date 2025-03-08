@@ -21,10 +21,12 @@ This project applies **K-Means and an additional clustering method** to analyze 
 ## 🔬 Methodology
 1️⃣ **Data Preprocessing**  
    - Converted `ActivityDate` to datetime  
-   - Handled missing values & scaled features  
+   - Handled missing values & scaled features
+
 2️⃣ **Clustering Methods Applied**  
    - **K-Means Clustering** (with Elbow Method)  
-   - **DBSCAN** (to detect varying density clusters)  
+   - **DBSCAN** (to detect varying density clusters)
+
 3️⃣ **Visualization & Evaluation**  
    - Cluster separation plots  
    - Feature distributions across clusters  
