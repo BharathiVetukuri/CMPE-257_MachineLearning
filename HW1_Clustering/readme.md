@@ -7,7 +7,7 @@ This project applies **K-Means and an additional clustering method** to analyze 
 
 **Colab Link:** https://colab.research.google.com/drive/1c10XF50GQ63hj2hDO9AfOa1Hg7BDmfsd?usp=sharing 
 
-**Write Up Link:**
+**Write Up Link:** https://drive.google.com/file/d/1t_iGsUUDvAq0_-uF1p2HCFjI0n8GBwjR/view?usp=drive_link 
 
 **Google Drive Link:** https://drive.google.com/drive/folders/1-pQuDngrw8GofkAKQESyRMA1hPNB4RTF 
 
